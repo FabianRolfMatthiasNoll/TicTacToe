@@ -1,2 +1,2 @@
 # TicTacToe
-A simple Jav TicTacToe game with the option to play together or against a bot
+A simple Java TicTacToe game with the option to play together or against a bot
