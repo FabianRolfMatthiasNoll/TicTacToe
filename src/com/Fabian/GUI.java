@@ -72,7 +72,7 @@ public class GUI implements ActionListener {
 
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("TicTacToe Motherfucker");
+        frame.setTitle("com.Fabian.TicTacToe Motherfucker");
         frame.pack();
         frame.setVisible(true);
     }
