@@ -6,6 +6,11 @@ public class TicTacToe {
     static final char PLAYER_1 = 'O';
 
     char[][] gameBoard = {{' ',' ',' '}, {' ',' ',' '}, {' ',' ',' '}};
+
+    public void setPlayer(int player) {
+        this.player = player;
+    }
+
     int player = (int)(Math.random() * 2);
 
     public TicTacToe(){
