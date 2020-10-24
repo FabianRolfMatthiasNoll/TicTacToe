@@ -14,8 +14,8 @@ It has a complete ruleset as well as a computer enemy. Right now it is displayed
 - [x] computer enemy
 - [x] complete ruleset
 - [x] creating tictactoe class
-- [ ] implement 9x9 TicTacToe
-- [ ] add official 9x9 ruleset
-- [ ] create new winning conditions
+- [x] implement 9x9 TicTacToe
+- [x] add official 9x9 ruleset
+- [x] create new winning conditions
 - [ ] making the game visual
 - [ ] adding online multiplayer
